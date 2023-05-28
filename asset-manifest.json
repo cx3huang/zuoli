@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zuoli/static/css/main.bc7983d9.css",
+    "main.js": "/zuoli/static/js/main.91d728d2.js",
+    "static/media/exterior_lighting_3.jpg": "/zuoli/static/media/exterior_lighting_3.219c8c862c3f78d2523d.jpg",
+    "index.html": "/zuoli/index.html",
+    "main.bc7983d9.css.map": "/zuoli/static/css/main.bc7983d9.css.map",
+    "main.91d728d2.js.map": "/zuoli/static/js/main.91d728d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc7983d9.css",
+    "static/js/main.91d728d2.js"
+  ]
+}
